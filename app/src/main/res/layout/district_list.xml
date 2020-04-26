@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="2dp"
+    android:background="@drawable/layout_bg"
+    android:layout_marginHorizontal="5dp"
+    android:padding="12dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/layout_bg"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/distName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="1dp"
+            android:textSize="25dp"
+            android:text="district Name"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/disTotal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Total:"
+            android:textColor="#fff"
+            android:padding="1dp" />
+
+        <TextView
+            android:id="@+id/distCured"
+            android:layout_width="match_parent"
+            android:text="Recovered"
+            android:textColor="#fff"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+        <TextView
+            android:id="@+id/distDeath"
+            android:layout_width="match_parent"
+            android:text="Death"
+            android:textColor="#fff"
+            android:layout_height="wrap_content"
+            android:padding="1dp" />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/pre"
+        android:title="Precaution"
+        />
+    <item android:id="@+id/sym"
+        android:title="Symptoms" />
+
+    <item android:id="@+id/govapp"
+        android:title="Download Aarogya Setu App" />
+
+    <item android:id="@+id/aboutme"
+        android:title="About Us"/>
+
+
+
+
+
+</menu>

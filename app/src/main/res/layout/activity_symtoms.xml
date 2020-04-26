@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3e3e3e"
+    tools:context=".Symtoms">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/systoms_title"
+                android:padding="4dp"
+                android:textSize="26dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Common Symtomes:"
+                android:padding="4dp"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/coomon_systomes"
+                android:padding="4dp"
+                android:textColor="#fff"
+                android:textSize="17dp"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Some People may Experience"
+                android:padding="4dp"
+                android:textStyle="bold"
+                android:textSize="17dp"
+                android:textColor="#fff"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/may_exp"
+                android:padding="4dp"
+                android:textColor="#fff"
+                android:textSize="17dp"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ss1"
+                android:padding="4dp"
+                android:textColor="#fff"
+                android:textSize="17dp"
+                android:layout_margin="6dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ss2"
+                android:padding="4dp"
+                android:textSize="17dp"
+                android:layout_margin="6dp"
+                android:textColor="#fff"
+                />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

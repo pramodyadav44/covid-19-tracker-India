@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker India</string>
+    <string name="follow">1. Clean your hands often. Use soap and water, or an alcohol-based hand rub.
+        Maintain a safe distance from anyone who is coughing or sneezing.\n\n2.
+        Don’t touch your eyes, nose or mouth.\n\n3.
+        Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.\n\n4.
+        Stay home if you feel unwell.\n\n5.
+        If you have a fever, a cough, and difficulty breathing, seek medical attention.\n\n6. Call in advance.
+        Follow the directions of your local health authority.
+    </string>
+
+    <string name="avoid">
+        Avoiding unneeded visits to medical facilities allows healthcare systems to operate more effectively, therefore protecting you and others.
+    </string>
+
+    <string name="systoms_title">
+        COVID-19 affects different people in different ways. Most infected people will develop mild to moderate symptoms.
+    </string>
+
+    <string name="coomon_systomes">
+        1. Fever.\n\n
+        2. Tiredness.\n\n
+        3. Dry Cough.
+    </string>
+
+    <string name="may_exp">
+        1. Aches and pains.\n\n
+        2. Nasal congestion.\n\n
+        3. Runny nose.\n\n
+        4. Sore throat.\n\n
+        5. Diarrhoea.
+    </string>
+
+    <string name="ss1">
+        On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
+    </string>
+
+    <string name="ss2">
+        People with mild symptoms who are otherwise healthy should self-isolate. Seek medical attention if you have a fever, a cough, and difficulty breathing. Call ahead.
+    </string>
+
+    <string name="appdata1">
+        With Aarogaya Setu, you can protect yourself, your family and friends, and also help our country in the effort to fight COVID-19
+    </string>
+
+    <string name="aboutme">
+        This Application is Created by Pramod Yadav to provide the information and awareness related to Corona virus (COVID-19)
+    </string>
+
+    <string name="aboutthisapp">
+        It uses official data provided by Ministry of Health and Welfare, India
+    </string>
+
+</resources>
